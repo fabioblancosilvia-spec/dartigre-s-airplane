@@ -8,4 +8,6 @@ In DEVLOG 0.3, I will begin designing the airframe/fuselage, followed by the tai
 
 Note for this devlog: AI assistance was used to translate this text, troubleshoot the CFD software, and calculate the aircraft dimensions (saving time on complex aerodynamic formulas).
 <img width="935" height="551" alt="Screenshot 2026-10-05 215402" src="https://github.com/user-attachments/assets/a6610311-e21e-4afe-9a71-a8c45ef365bd" />
-<img width="1099" height="876" alt="Screenshot 2026-10-05 222624" src="https://github.com/user-attachments/assets/9c87fa32-2a2c-4915-a569-a9ea6588e38e" />
+<img width="1246" height="553" alt="Screenshot 2026-10-05 215348" src="https://github.com/user-attachments/assets/27fa0720-6119-4e6f-a55b-4974fa34558b" />
+<img width="819" height="630" alt="Screenshot 2026-10-05 222638" src="https://github.com/user-attachments/assets/928f0224-8d28-4a71-9301-6c4f8716c46a" />
+
