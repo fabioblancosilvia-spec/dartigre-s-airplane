@@ -7,3 +7,6 @@ The airfoil coordinates were sourced from http://airfoiltools.com.
 In DEVLOG 0.3, I will begin designing the airframe/fuselage, followed by the tail assembly and the nose section in subsequent updates (including a rigid motor mount capable of handling high structural loads).
 
 Note for this devlog: AI assistance was used to translate this text, troubleshoot the CFD software, and calculate the aircraft dimensions (saving time on complex aerodynamic formulas).
+<img width="1237" height="1219" alt="immagine" src="https://github.com/user-attachments/assets/e08394ba-83d7-4368-a821-50be577d4beb" />
+<img width="935" height="551" alt="Screenshot 2026-10-05 215402" src="https://github.com/user-attachments/assets/a6610311-e21e-4afe-9a71-a8c45ef365bd" />
+<img width="1099" height="876" alt="Screenshot 2026-10-05 222624" src="https://github.com/user-attachments/assets/9c87fa32-2a2c-4915-a569-a9ea6588e38e" />
