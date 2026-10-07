@@ -1,0 +1,9 @@
+In this devlog, I would like to update you on two main progress points.
+
+First, I continued with the general modeling of the aircraft, designing the main airframe, including the nose, canopy, and tail section. To determine the dimensions, I referenced the CAD model of my previous aircraft.
+
+Second, I ran a CFD simulation. However, the aircraft currently generates less lift than expected (around 290 g at 15 m/s). I hope this will increase once the elevator is added. Based on my experience with my previous build, designing the elevator will be challenging because space in the tail is very limited for two servos; thus, a single servo will need to control the entire elevator surface.
+
+Overall, I am satisfied with the progress made, as I managed to advance significantly in just a few hours. In the next devlogs, I will add the elevator and the ailerons.
+
+NOTE: AI was used in this devlog solely for text translation, dimension references, and setup assistance with the CFD software, which is quite complex.
